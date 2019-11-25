@@ -3,7 +3,9 @@
 **Documento de manejo de imagenes**
 # Chef company
 
-{{TOC}}
+
+<!-- TOC -->autoauto- [Chef company](#chef-company)auto        - [Antes de leer](#antes-de-leer)auto            - [Horizontales.](#horizontales)auto            - [Verticales.](#verticales)auto            - [Cuadradas.](#cuadradas)auto    - [Uso de imágenes para tarjetas [Cards]:](#uso-de-imágenes-para-tarjetas-cards)auto        - [Cuando los contenedores son cuadrados:](#cuando-los-contenedores-son-cuadrados)auto            - [Imágenes ideales:](#imágenes-ideales)auto        - [Cuando los contenedores son verticales:](#cuando-los-contenedores-son-verticales)auto            - [Imágenes ideales:](#imágenes-ideales-1)auto        - [Cuando los contenedores son horizontales:](#cuando-los-contenedores-son-horizontales)auto            - [Imágenes ideales:](#imágenes-ideales-2)auto    - [Notas adicionales](#notas-adicionales)auto        - [Manejo de imagenes para dispositivos, pantallas de alta densidad](#manejo-de-imagenes-para-dispositivos-pantallas-de-alta-densidad)auto        - [JPG](#jpg)auto        - [PNG](#png)auto        - [SVG](#svg)autoauto<!-- /TOC -->
+
 
 > Notas:
 > 
