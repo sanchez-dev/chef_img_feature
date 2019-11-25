@@ -1,0 +1,25 @@
+// tamaño del contenedor principal
+
+html {
+    background-color: #ffcdcd;
+  }
+  
+  .main_container {
+    width: 20vw;
+    height: 100vh;
+    
+    // contenedor de imagen, usando grid + object-fit para reajustar la imagen.
+
+    .chef_image_square { // Picture, a futuro
+      display: grid;
+      grid-template-columns: 1fr; // 1fr para utilizar todo el ancho del contenedor principal.
+      height: 100%; // Altura del contenedor
+  
+      img {
+        object-fit: cover;
+        height:100%;
+        width: 100%;
+        background-color: yellow;
+      }
+    }
+  }

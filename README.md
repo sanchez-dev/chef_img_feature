@@ -35,20 +35,20 @@
 Antes de empezar el documento, conviene enumerar los tipos de dimensiones que vamos a manejar:
 
 #### Horizontales.
-El ancho supera a la altura: w > (h + 1/2w)
+El ancho supera a la altura: **w > (h + 1/2w)**
 
 <img src="https://i.ibb.co/RP1WFJH/h-s-2x.png" alt="h-s-2x" border="0">
 <img src="https://i.ibb.co/87nFtbX/horizontal-2x.png" alt="horizontal-2x" border="0">
 
 
 #### Verticales.
-El alto supera al ancho: h > (w + 1/2h)
+El alto supera al ancho: **h > (w + 1/2h)**
 
 <img src="https://i.ibb.co/NyGmtzM/v-s-2x.png" alt="v-s-2x" border="0">
 <img src="https://i.ibb.co/4JtN26X/vertical-2x.png" alt="vertical-2x" border="0">
 
 #### Cuadradas.
-Todas las demás relaciones en donde una dimension (width or height) no supera a la otra en 1/2X
+Todas las demás relaciones en donde una dimension (width or height) **no supera a la otra en 1/2X**
 
 <img src="https://i.ibb.co/TPH2HD1/sq-s-2x.png" alt="sq-s-2x" border="0">
 <img src="https://i.ibb.co/85tmr4R/cuadrada-2x.png" alt="cuadrada-2x" border="0">
