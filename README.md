@@ -2,7 +2,7 @@
 
 # Documento de manejo de imágenes
 
-- [Chef company](#chef-company)
+- [Home](#chef-company)
 - [Dimensiones de la imágen](#antes-de-leer)
     - [Horizontales.](#horizontales)
     - [Verticales.](#verticales)
