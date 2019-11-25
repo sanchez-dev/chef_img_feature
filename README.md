@@ -19,20 +19,23 @@
 Antes de empezar el documento, conviene enumerar los tipos de dimensiones que vamos a manejar,
 
 #### Horizontales.
-<img src="https://i.ibb.co/RP1WFJH/h-s-2x.png" alt="h-s-2x" border="0">
 El ancho supera a la altura: w > (h + 1/2w)
+
+<img src="https://i.ibb.co/RP1WFJH/h-s-2x.png" alt="h-s-2x" border="0">
 <img src="https://i.ibb.co/87nFtbX/horizontal-2x.png" alt="horizontal-2x" border="0">
 
 
 #### Verticales.
-<img src="https://i.ibb.co/NyGmtzM/v-s-2x.png" alt="v-s-2x" border="0">
 El alto supera al ancho: h > (w + 1/2h)
+
+<img src="https://i.ibb.co/NyGmtzM/v-s-2x.png" alt="v-s-2x" border="0">
 <img src="https://i.ibb.co/4JtN26X/vertical-2x.png" alt="vertical-2x" border="0">
 
 #### Cuadradas.
-<img src="https://i.ibb.co/TPH2HD1/sq-s-2x.png" alt="sq-s-2x" border="0">
 Todas las demás relaciones en donde una dimension (width or height) no supera a la otra en 1/2
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/85tmr4R/cuadrada-2x.png" alt="cuadrada-2x" border="0"></a>
+
+<img src="https://i.ibb.co/TPH2HD1/sq-s-2x.png" alt="sq-s-2x" border="0">
+<img src="https://i.ibb.co/85tmr4R/cuadrada-2x.png" alt="cuadrada-2x" border="0">
 
 ## Uso de imágenes para tarjetas [Cards]:
 Propuesta para manejo de imagenes en tarjetas *(basado en grid + object-fit)*, [Revisar este ejemplo](https://codepen.io/sanchez-dev/pen/GRRajqQ)
@@ -40,6 +43,7 @@ Propuesta para manejo de imagenes en tarjetas *(basado en grid + object-fit)*, [
 
 ### Cuando los contenedores son cuadrados:
 <img src="https://i.ibb.co/hdFmw9d/sq-crop-2x.png" alt="sq-crop-2x" border="0">
+
 - Priorizan el ancho antes que el alto
 - Si se agota el ancho, expande el alto.
 
@@ -50,6 +54,7 @@ Propuesta para manejo de imagenes en tarjetas *(basado en grid + object-fit)*, [
 
 ### Cuando los contenedores son verticales:
 <img src="https://i.ibb.co/FKfdTk3/v-crop-2x.png" alt="v-crop-2x" border="0">
+
 - Priorizan el espacio a lo alto (height)
 - Si se agota el alto, expanden el ancho (width).
 
@@ -60,6 +65,7 @@ Propuesta para manejo de imagenes en tarjetas *(basado en grid + object-fit)*, [
 
 ### Cuando los contenedores son horizontales:
 <img src="https://i.ibb.co/Kw4WgCt/h-crop-2x.png" alt="h-crop-2x" border="0">
+
 - Priorizan el espacio a lo ancho (width)
 - Si se agota el ancho, expanden el alto.
 
