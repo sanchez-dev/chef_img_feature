@@ -26,6 +26,7 @@
 >	hasta el momento, los tipos de imágenes que se han documentado son:
 >	- Cards
 >	- Banner horizontal
+>
 >	La documentación es continúa. En caso de hallazgos 
 >	(obviamente relacionados con imágenes); tener en cuenta que,
 >	 todos los componentes de este documento están disponibles para: 
