@@ -23,13 +23,13 @@
 
 > Notas:
 > 
-	hasta el momento, los tipos de imágenes que se han documentado son:
-	- Cards
-	- Banner horizontal
-	La documentación es continúa. En caso de hallazgos 
-	(obviamente relacionados con imágenes); tener en cuenta que,
-	 todos los componentes de este documento están disponibles para: 
-	**Ampliar, modificar, eliminar.**
+>	hasta el momento, los tipos de imágenes que se han documentado son:
+>	- Cards
+>	- Banner horizontal
+>	La documentación es continúa. En caso de hallazgos 
+>	(obviamente relacionados con imágenes); tener en cuenta que,
+>	 todos los componentes de este documento están disponibles para: 
+>	**Ampliar, modificar, eliminar.**
 
 ### Antes de leer
 Antes de empezar el documento, conviene enumerar los tipos de dimensiones que vamos a manejar:
