@@ -3,7 +3,7 @@
 # Documento de manejo de imágenes
 
 - [Chef company](#chef-company)
-- [Antes de leer](#antes-de-leer)
+- [Dimensiones de la imágen](#antes-de-leer)
     - [Horizontales.](#horizontales)
     - [Verticales.](#verticales)
     - [Cuadradas.](#cuadradas)
