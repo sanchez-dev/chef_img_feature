@@ -53,6 +53,8 @@ Todas las demás relaciones en donde una dimension (width or height) **no supera
 <img src="https://i.ibb.co/TPH2HD1/sq-s-2x.png" alt="sq-s-2x" border="0">
 <img src="https://i.ibb.co/85tmr4R/cuadrada-2x.png" alt="cuadrada-2x" border="0">
 
+____
+
 ## Uso de imágenes para tarjetas [Cards]:
 Propuesta para manejo de imagenes en tarjetas *(basado en grid + object-fit)*, [Revisar este ejemplo](https://codepen.io/sanchez-dev/pen/GRRajqQ)
 > Diseñadores, el punto de atención de la imagen siempre debe estar en el centro.
