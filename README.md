@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/j3q7B0n/Grupo-115-2.png" alt="Grupo-115-2" border="0">
 
-# Documento de manejo de imagenes
+# Documento de manejo de imágenes
 
 - [Chef company](#chef-company)
 - [Antes de leer](#antes-de-leer)
